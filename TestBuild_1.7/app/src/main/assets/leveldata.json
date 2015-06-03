@@ -1,0 +1,48 @@
+{
+  "main": [
+    {
+      "level": 1,
+      "backgroundColor": "#FDFEFB",
+      "circleColor": "#CD5C5C",
+      "rectangleColor": "#447CCF",
+      "hexagonColor": "#1ABF27",
+      "circleBorderColor": "#000000",
+      "rectangleBorderColor": "#000000",
+      "hexagonBorderColor": "#000000",
+      "maximumShapes": 5,
+      "spawnSpeed": 60,
+      "circleSize": 50,
+      "rectangleSize": 45,
+      "hexagonSize": 40,
+      "circleSpeed": 0.3,
+      "rectangleSpeed": 0.4,
+      "hexagonSpeed": 0.5,
+      "circleSpawnChance": 70,
+      "rectangleSpawnChance": 20,
+      "hexagonSpawnChance": 10,
+      "highscore": 0
+    },
+    {
+      "level": 2,
+      "backgroundColor": "#232121",
+      "circleColor": "#FDFDFD",
+      "rectangleColor": "#000000",
+      "hexagonColor": "#CD5C5C",
+      "circleBorderColor": "#CD5C5C",
+      "rectangleBorderColor": "#FDFDFD",
+      "hexagonBorderColor": "#FDFDFD",
+      "maximumShapes": 6,
+      "spawnSpeed": 50,
+      "circleSize": 50,
+      "rectangleSize": 45,
+      "hexagonSize": 40,
+      "circleSpeed": 0.35,
+      "rectangleSpeed": 0.45,
+      "hexagonSpeed": 0.55,
+      "circleSpawnChance": 60,
+      "rectangleSpawnChance": 25,
+      "hexagonSpawnChance": 15,
+      "highscore": 0
+    }
+  ]
+}
